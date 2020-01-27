@@ -1,0 +1,19 @@
+{
+  "name": "akrimi",
+  "version": "1.0.0",
+  "description": "this project is for object oriented analysis and design - Mahmod il akrimi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rshahboon1/ooad.git"
+  },
+  "author": "Radwan Shahboon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rshahboon1/ooad/issues"
+  },
+  "homepage": "https://github.com/rshahboon1/ooad#readme"
+}
