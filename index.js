@@ -1,4 +1,4 @@
-const { Person, Student, Teacher } = require("./class/Person");
+const { Person, Student, Teacher } = require("./class/Classes");
 
 let Ahmed = new Person("ahmed ali", 28, "Male");
 
